@@ -1,0 +1,24 @@
+{
+  "name": "fake-news-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Derwaan/fake_news_generator.git"
+  },
+  "keywords": [
+    "fake",
+    "news",
+    "generator"
+  ],
+  "author": "Derwaan, Robhox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Derwaan/fake_news_generator/issues"
+  },
+  "homepage": "https://github.com/Derwaan/fake_news_generator#readme"
+}
