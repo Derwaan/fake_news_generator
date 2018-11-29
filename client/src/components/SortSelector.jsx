@@ -34,7 +34,7 @@ class SortSelector extends Component {
           }}
           onChange={this.handleValueChange}
         >
-          <MenuItem value="Recent">Recent</MenuItem>
+          <MenuItem value="Recent">Récent</MenuItem>
           <MenuItem value="Top">Top</MenuItem>
         </Select>
       </div>
