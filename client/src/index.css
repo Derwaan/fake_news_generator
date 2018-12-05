@@ -16,7 +16,7 @@ html, body, #root, #root>div {
   height: 100% !important;
   font-family: 'Roboto';
   padding: 0 20px;
-  background-color: #fafafa;
+  background-color: #f9f9f9;
 }
 
 .homeContainer {
